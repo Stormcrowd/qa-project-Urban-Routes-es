@@ -1,5 +1,5 @@
 from selenium import webdriver
-import UrbanRoutesPage
+from URPages import UrbanRoutesPage
 import data
 import helpers
 
